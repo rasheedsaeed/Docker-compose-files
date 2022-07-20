@@ -1,0 +1,1 @@
+Standard single-node ES cluster, with a volume mount.

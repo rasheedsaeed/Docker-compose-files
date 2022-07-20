@@ -1,0 +1,1 @@
+Standard single-node Nifi cluster, with a volume mount.
